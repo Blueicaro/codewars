@@ -18,8 +18,8 @@ and return true if they are in love and false if they aren't.
   end;
 
 begin
-  writeln(islove(1, 4));   //true
-  writeln(islove(2, 2));  //False
-  writeln(islove(1, 1)); //False
-  writeln(islove(0, 1)); //True
+  writeln (islove(1,4));   //true
+  writeln (islove(2,2));  //False
+  writeln (islove(1,1)); //False
+  writeln (islove(0,1)); //True
 end.

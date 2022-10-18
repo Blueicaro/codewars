@@ -5,10 +5,10 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="OppositesAttract.pas"/>
+        <Filename Value="PlayingBanjo.pas"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos Y="3"/>
+        <CursorPos X="30" Y="13"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>

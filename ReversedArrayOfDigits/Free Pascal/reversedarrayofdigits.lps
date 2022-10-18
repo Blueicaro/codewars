@@ -5,10 +5,11 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="OppositesAttract.pas"/>
+        <Filename Value="reversedarrayofdigits.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos Y="3"/>
+        <TopLine Value="8"/>
+        <CursorPos Y="26"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
